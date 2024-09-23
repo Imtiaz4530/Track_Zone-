@@ -29,9 +29,9 @@ This is a responsive world clock app built with React that allows users to creat
    ```
 
 2. **Visual looks:**
-   <img src="./assets/screenshot1.png" alt="Track Zone App Screenshot1" width="600">
-   <img src="./assets/screenshot2.png" alt="Track Zone App Screenshot2" width="600">
-   <img src="./assets/screenshot3.png" alt="Track Zone App Screenshot3" width="600">
-   <img src="./assets/screenshot4.png" alt="Track Zone App Screenshot4" width="600">
+   <img src="./assets/Screenshot1.png" alt="Track Zone App Screenshot1" width="600">
+   <img src="./assets/Screenshot2.png" alt="Track Zone App Screenshot2" width="600">
+   <img src="./assets/Screenshot3.png" alt="Track Zone App Screenshot3" width="600">
+   <img src="./assets/Screenshot4.png" alt="Track Zone App Screenshot4" width="600">
 
 This is a responsive world clock app built with React that allows users to create and manage clocks for different time zones...

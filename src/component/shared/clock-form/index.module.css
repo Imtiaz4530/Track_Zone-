@@ -1,0 +1,17 @@
+.input {
+  width: 300px;
+}
+
+.container {
+  padding-bottom: 15px;
+}
+
+@media (max-width: 640px) {
+  .input {
+    width: 150px;
+  }
+
+  .container {
+    padding: 10px;
+  }
+}

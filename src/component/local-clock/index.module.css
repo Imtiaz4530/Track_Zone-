@@ -1,0 +1,27 @@
+.container {
+  height: 350px;
+  background-color: #1e1e1e;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+}
+
+.btn {
+  width: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+@media (max-width: 640px) {
+  .btn {
+    width: 100%;
+    justify-content: space-around;
+    margin: 15px 0;
+  }
+}

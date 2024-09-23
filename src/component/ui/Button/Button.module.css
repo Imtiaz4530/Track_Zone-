@@ -1,0 +1,20 @@
+.btn {
+  width: 65px;
+  height: 65px;
+  border-radius: 50%;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  margin-top: 10px;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.edit {
+  background: #596fb7;
+}
+
+.create {
+  background: #7360df;
+  font-size: 14px !important;
+}
